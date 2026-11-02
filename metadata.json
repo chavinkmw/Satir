@@ -1,0 +1,8 @@
+{
+  "name": "Remix Satir Iceberg Model Explorer",
+  "description": "เครื่องมือฝึกจำแนกโมเดลภูเขาน้ำแข็งของซาเทียร์ (Satir Iceberg Model) 7 ระดับชั้น พร้อมกราฟิกเชิงโต้ตอบ แอนิเมชันเปิด-ปิด Accordion และระบบตรวจคะแนนพร้อมเฉลยละเอียด",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
